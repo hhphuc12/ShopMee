@@ -63,6 +63,6 @@ const styles = StyleSheet.create({
     title: {
         color: '#FFF',
         fontFamily: 'Avenir',
-        fontSize: height / 40
+        fontSize: height / 35
     }
 });
